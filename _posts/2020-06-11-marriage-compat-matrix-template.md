@@ -1,26 +1,27 @@
 ---
 layout: post
-title:  "Marriage Compatibility Matrix (Template)"
-date:   2020-06-11 18:00:00 +0800
+title: "Marriage Compatibility Matrix (Template)"
+date: 2020-06-11 18:00:00 +0800
 categories: [relationship-advice]
 ---
+
 <center>
-<img src="/assets/2020-06-11-marriage-compat-matrix-template/glasses-3002608_640.jpg" height="400"/>
+<img src="/assets/2020-06-11-marriage-compat-matrix-template/glasses-3002608_640.jpg"/>
 <br />
 <br />
 <i>"Rose-tinted glasses aren't the best ones to use when you need to bring clarity to your relationship."</i> (<a href="https://pixabay.com/photos/glasses-pink-glasses-lens-eyesight-3002608/">source</a>)
 </center>
 <br />
 
-# Purpose 
+# Purpose
 
-- Having a relationship with a good fit for both sides provides the best chance of a successful marriage. 
+- Having a relationship with a good fit for both sides provides the best chance of a successful marriage.
 
 - A good fit should tick both logical and emotional boxes; using solely one aspect is ill-advised.
 
 - Use this template to list out all the factors (pros/cons) about how well does your partner fit into your life (present and future).
 
-# Marriage Compatibility Matrix (Template) 
+# Marriage Compatibility Matrix (Template)
 
 _Q: How well does your partner fit/not fit in these areas of your life?_
 
@@ -33,7 +34,7 @@ _Q: How well does your partner fit/not fit in these areas of your life?_
 | Long-term Goals |        |
 | Others          |        |
 
-*Legend*
+_Legend_
 
 ➕➕ Big plus
 
@@ -46,6 +47,7 @@ _Q: How well does your partner fit/not fit in these areas of your life?_
 ➖➖ Big minus/Dealbreaker
 <br/>
 <br/>
+
 # Conflict Resolution Strategies
 
 _Q: What if there’s friction on a certain point?_
@@ -71,7 +73,7 @@ If the pain point(s) is causing too much friction or is a dealbreaker, then perh
 | Financials      | Spendthrift or saver?<br/>Agree with each other’s spending habits?<br/>Amount of money spent?<br/>What is the money spent on? (eg. trinkets, toys, hobbies, etc…)<br/>In debt?<br/>Investment skills?<br/>Financially responsible for others?<br/> |
 | Relational      | What do you appreciate about your interactions with your partner?<br/>Introvert or Extrovert?<br/>Gets along with in-laws?<br/>Acceptance with other partner’s friends?<br/>                                                                       |
 | Long-term Goals | Children?<br/>Nondivergent goals?<br/>                                                                                                                                                                                                             |
-| Others          | **Everything else that doesn’t fall in the areas above*                                                                                                                                                                                            |
+| Others          | \*_Everything else that doesn’t fall in the areas above_                                                                                                                                                                                           |
 
 # Backstory
 
