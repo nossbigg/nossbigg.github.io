@@ -2,7 +2,7 @@
 layout: post
 title: "Clean Code React: Use concise snapshots!"
 date: 2020-10-05 15:00:00 +0800
-categories: [clean-code, react]
+tags: [clean-code, react]
 ---
 
 <center>

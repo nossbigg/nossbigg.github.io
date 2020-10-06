@@ -2,7 +2,7 @@
 layout: post
 title:  "My Book Collection"
 date:   2019-10-09 21:00:00 +0800
-categories: [learning-log]
+tags: [learning-log]
 ---
 
 In a bid to prevent myself from buying books with overlapping content, here's my book collection!

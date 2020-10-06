@@ -2,7 +2,7 @@
 layout: post
 title:  "Book Review: Designing Data-Intensive Applications by Martin Kleppmann"
 date:   2019-10-05 15:00:00 +0800
-categories: [book-reviews]
+tags: [book-reviews]
 ---
 <center>
 <img src="/assets/2019-10-05-book-review-designing-data-intensive-applications-martin-kleppmann/designing-data-intensive-applications-kleppmann-cover.jpg" height="400"/>

@@ -2,7 +2,7 @@
 layout: post
 title: "Marriage Compatibility Matrix (Template)"
 date: 2020-06-11 18:00:00 +0800
-categories: [relationship-advice]
+tags: [relationship-advice]
 ---
 
 <center>
