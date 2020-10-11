@@ -32,3 +32,4 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem "github-pages", '>=200', group: :jekyll_plugins
 
 gem 'jekyll-sitemap'
+gem 'jekyll-redirect-from'

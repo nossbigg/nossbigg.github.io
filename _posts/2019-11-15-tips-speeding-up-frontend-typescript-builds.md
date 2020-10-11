@@ -3,6 +3,8 @@ layout: post
 title:  "Tips on Speeding Up Frontend TypeScript Builds"
 date:   2019-11-15 13:00:00 +0800
 tags: [frontend]
+redirect_from:
+  - frontend/2019/11/15/tips-speeding-up-frontend-typescript-builds.html
 ---
 <center>
 <img src="/assets/2019-11-15-tips-speeding-up-frontend-typescript-builds/god-banishes-adam-eve-from-eden.jpg" height="400"/>
