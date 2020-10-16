@@ -1,0 +1,20 @@
+@startuml
+
+title React CSR + Google reCATPCHA v3
+
+actor "User Device" as USER
+participant "React CSR" as REACT
+participant "Backend Server" as BE
+participant "Google reCAPTCHA" as GR
+
+USER -> REACT : Load page 
+REACT -> USER
+USER -> GR: Get reCAPTCHA token
+GR -> USER
+USER -> BE: Request data with reCAPTCHA token
+BE -> GR: Validate reCATPCHA token
+GR -> BE
+BE -> USER: Return data
+USER -> USER: Display data
+
+@enduml

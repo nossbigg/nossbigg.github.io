@@ -1,0 +1,22 @@
+@startuml
+
+title React SSR + Google reCATPCHA v3
+
+actor "User Device" as USER
+participant "React SSR Server" as REACT
+participant "Backend Server" as BE
+participant "Google reCAPTCHA" as GR
+
+USER -> REACT: Load page 
+REACT -> BE: Request non-sensitive data
+BE -> REACT
+REACT -> USER: Return pre-rendered page
+USER -> GR: Get reCAPTCHA token
+GR -> USER
+USER -> BE: Request sensitive data with reCAPTCHA token
+BE -> GR: Validate reCATPCHA token
+GR -> BE
+BE -> USER: Return sensitive data
+USER -> USER: Display sensitive data
+
+@enduml
