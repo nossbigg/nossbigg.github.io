@@ -43,7 +43,7 @@ The code examples are built around this problem space:
    - `Animal` interactions
    - `tricks: string[]`
    - `getTricks: () => string[]`
-3. Declare a `Dog` _type/subclass_ that supports
+3. Declare a `Cat` _type/subclass_ that supports
    - `Animal` interactions
    - `isSprayed: boolean`
    - `checkIsSprayed: () => boolean`
