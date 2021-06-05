@@ -28,6 +28,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 disqus:
   shortname: nossbigg
@@ -44,6 +45,3 @@ google_analytics: UA-149350566-1
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-plugins:
-  - jekyll-redirect-from
